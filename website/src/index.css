@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+} */
+
+.brij {
+  background: linear-gradient(90deg, rgba(227, 246, 252, 0.5) 0%, rgba(197, 240, 247, 0.5) 27%, rgba(201, 223, 245, 0.5) 41%, rgba(225, 220, 251, 0.5) 66%, rgba(231, 237, 249, 0.5) 79%, rgba(172, 223, 234, 0.3) 100%);
+}
+.bg-custom {
+    background-image: url('https://teamflourish.co/wp-content/themes/divi/assets/images/testi-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .bg-custom-2 {
+    background-image: url('https://teamflourish.co/wp-content/themes/divi/assets/images/testi-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
